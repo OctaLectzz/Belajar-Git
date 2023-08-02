@@ -1,0 +1,8 @@
+# Ignore folder log
+log/
+
+# Ignore file extension .backup
+*.backup
+
+# Ignore file test.css
+test.css
